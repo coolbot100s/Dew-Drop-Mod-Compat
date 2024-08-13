@@ -1,0 +1,21 @@
+{
+  "values": [
+	"farmersdelight:rich_soil_farmland",
+	"immersive_weathering:loamy_farmland",
+	"immersive_weathering:earthen_clay_farmland",
+	"immersive_weathering:sandy_farmland",
+	"immersive_weathering:silty_farmland",
+	"farmingforblockheads:fertilized_farmland_rich",
+	"farmingforblockheads:fertilized_farmland_rich_stable",
+	"farmingforblockheads:fertilized_farmland_healthy",
+	"farmingforblockheads:fertilized_farmland_healthy_stable",
+	"farmingforblockheads:fertilized_farmland_stable",
+	"mysticalagriculture:inferium_farmland",
+	"mysticalagriculture:prudentium_farmland",
+	"mysticalagriculture:tertium_farmland",
+	"mysticalagriculture:imperium_farmland",
+	"mysticalagriculture:supremium_farmland",
+	"mysticalagradditions:insanium_farmland",
+	"farm_and_charm:fertilized_farmland"
+  ]
+}
