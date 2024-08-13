@@ -21,7 +21,7 @@ Note that this does not add the other farmland changes from Sturdy Farmland such
 [Forbidden and Arcanus](https://modrinth.com/mod/forbidden-arcanus): Magical Farmland  
 
 **Known Incompatibilities**:  
-[TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft)
+[TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) - Farmland from TFC cannot be given this tag, otherwise there are no issues.
 
 Know of any mods that add new farmland types? Feel free to leave your suggestions and requests or let us know on our [Discord server](https://discord.gg/qxRVkGDjd).  
 Your feedback is greatly appreciated!
