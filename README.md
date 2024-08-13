@@ -17,6 +17,7 @@ Note that this does not add the other farmland changes from Sturdy Farmland such
 [Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture): Essence farmlands
 [Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions): Insanium Farmland
 [Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm): Fertilized Farmland
+[Biome Makeover](https://modrinth.com/mod/biome-makeover): Peate Farmland
 
 Know of any mods that add new farmland types? Feel free to leave your suggestions and requests or let us know in our [Discord server](https://discord.gg/qxRVkGDjd).  
 Your feedback is greatly appreciated!
