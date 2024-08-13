@@ -11,15 +11,15 @@ Note that this does not add the other farmland changes from Sturdy Farmland such
 
 ### Supported Mods
 
-[Farmer's Delight](https://modrinth.com/mod/farmers-delight): Rich Soil Farmland
-[Immersive Weathering](https://modrinth.com/mod/immersive-weathering): Various alternate farmlands
-[Farming For Blockheads](https://modrinth.com/mod/farming-for-blockheads): All fertilized farmland variants
-[Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture): Essence farmlands
-[Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions): Insanium Farmland
-[Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm): Fertilized Farmland
-[Biome Makeover](https://modrinth.com/mod/biome-makeover): Peate Farmland
+[Farmer's Delight](https://modrinth.com/mod/farmers-delight): Rich Soil Farmland  
+[Immersive Weathering](https://modrinth.com/mod/immersive-weathering): Various alternate farmlands  
+[Farming For Blockheads](https://modrinth.com/mod/farming-for-blockheads): All fertilized farmland variants  
+[Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture): Essence farmlands  
+[Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions): Insanium Farmland  
+[Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm): Fertilized Farmland  
+[Biome Makeover](https://modrinth.com/mod/biome-makeover): Peate Farmland  
 
-Know of any mods that add new farmland types? Feel free to leave your suggestions and requests or let us know in our [Discord server](https://discord.gg/qxRVkGDjd).  
+Know of any mods that add new farmland types? Feel free to leave your suggestions and requests or let us know on our [Discord server](https://discord.gg/qxRVkGDjd).  
 Your feedback is greatly appreciated!
 
 ## Project Links
