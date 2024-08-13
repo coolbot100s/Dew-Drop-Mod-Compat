@@ -18,7 +18,8 @@
 	  {"id": "mysticalagradditions:insanium_farmland", "required": false},
 	  {"id": "farm_and_charm:fertilized_farmland", "required": false},
 	  {"id": "biomemakeover:peat_farmland", "required": false},
-	  {"id": "forbidden_arcanus:magical_farmland", "required": false}
+	  {"id": "forbidden_arcanus:magical_farmland", "required": false},
+	  {"id": "aether:aether_farmland", "required": false}
 	]
   }
   

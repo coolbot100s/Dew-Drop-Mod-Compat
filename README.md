@@ -19,6 +19,7 @@ Note that this does not add the other farmland changes from Sturdy Farmland such
 [Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm): Fertilized Farmland  
 [Biome Makeover](https://modrinth.com/mod/biome-makeover): Peate Farmland  
 [Forbidden and Arcanus](https://modrinth.com/mod/forbidden-arcanus): Magical Farmland  
+[The Aether](https://modrinth.com/mod/aether): Aether Farmland  
 
 **Known Incompatibilities**:  
 [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft)
